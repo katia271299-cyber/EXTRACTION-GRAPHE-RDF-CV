@@ -12,7 +12,7 @@ Nettoyage et normalisation du texte.
 Extraction d’informations
 Compétences : identification via une liste prédéfinie (Python, SQL, Machine Learning, etc.).
 Postes occupés : extraction depuis le texte et les sections « Experience ».
-Domaines d’études : détection des formations ou spécialités.
+Domaines d’études : détection des formations ou spécialités. (utilisation d'antologie toy pour enrichir ) 
 Établissements éducatifs : reconnaissance via spaCy et filtrage intelligent.
 Organisations professionnelles : entreprises précédemment fréquentées, avec nettoyage des doublons et exceptions.
 Représentation RDF
